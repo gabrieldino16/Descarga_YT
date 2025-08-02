@@ -5,7 +5,7 @@ Una aplicación con interfaz gráfica para descargar videos o audios desde YouTu
 ---
 
 ## 🖥️ Captura de pantalla
-<img src="https://github.com/tuusuario/tu-repo/raw/main/screenshot.png" width="600">
+<img src="https://github.com/gabrieldino16/tu-repo/raw/main/screenshot.png" width="600">
 
 ---
 
@@ -22,10 +22,13 @@ Una aplicación con interfaz gráfica para descargar videos o audios desde YouTu
 
 ## 🔧 Requisitos
 
-- Python 3.10 o superior (⚠️ no se recomienda Python 3.13 aún)
+- Python 3.10 o superior
 - pip
 
 ### Instalación de dependencias
 
 ```bash
 pip install pytubefix moviepy
+
+🧑‍💻 Autor
+Gabriel Dino – @gabrieldino16
